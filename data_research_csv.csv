@@ -1,0 +1,43 @@
+Number,Gender,Age,Nationality,Leadership experience,Work experience in vt ,Work experience ,industry , rate the importance of trust towards a leader,rate the influence of incentives, knowledge and adaption of different cultural values,School system,Family life,Political system,Personal interests,Rate:Culture:Please rate the most challenges in virtual teams.,Rate:Trust:Please rate the most challenges in virtual teams.,Rate:Leadership:Please rate the most challenges in virtual teams.,Rate:Communication:Please rate the most challenges in virtual teams,Rate:Confidence,Rate:Demonstrate your abilitiy,Rate:Being goal oriented,Rate:Ability to quickly adapt,Rate:Being open-minded, important is punctuality
+1,Male,31-40,Spanish,1-3 years,3-5 years,3-6 years,Consulting,7,8,10,School system,Family life,Political system,Personal interests,5,4,3,,3,2,5,5,5,8
+2,Male,18-30,Spanish,1-3 years,No experience,3-6 years,Banking,10,8,8,School system,Family life,,Personal interests,2,3,2,,4,3,5,5,5,10
+3,Female,18-30,Spanish,1-3 years,1-2 years,1-2 years,Consulting,10,8,6,School system,Family life,Political system,Personal interests,3,4,4,,3,3,3,3,2,7
+4,Female,18-30,Polish,1-3 years,3-5 years,3-6 years,Management Consulting,10,10,10,School system,Family life,Political system,Personal interests,3,5,5,,5,4,5,5,5,8
+5,Female,18-30,Spanish,1-3 years,1-2 years,1-2 years,Not applicable,10,7,10,,Family life,,Personal interests,4,4,4,,3,3,3,5,5,8
+6,Female,18-30,Italian,1-3 years,3-5 years,3-6 years,Banking,10,8,10,,Family life,,,3,5,5,,3,3,3,5,5,8
+7,Male,18-30,Mexican,No experience,3-5 years,3-6 years,Consulting,10,8,8,School system,Family life,,,1,1,1,,3,5,3,5,5,10
+8,Male,31-40,Spanish,Not applicable,No experience,3-6 years,Consulting,8,9,9,School system,Family life,,Personal interests,4,5,3,,5,4,2,4,4,6
+9,Female,31-40,Spanish,1-3 years,1-2 years,1-2 years,Travel,8,9,10,,Family life,,Personal interests,1,2,3,,3,3,4,4,5,9
+10,Female,31-40,Spanish,No experience,1-2 years,3-6 years,HR,10,5,8,,,,,2,5,4,5,5,4,4,4,5,6
+11,Male,18-30,Spanish,1-3 years,1-2 years,3-6 years,Consulting,6,6,7,,Family life,,Personal interests,3,4,4,,4,3,3,4,4,10
+12,Female,31-40,American,9-15 years,6-10 years,7-10 years,Consulting,8,6,10,,Family life,Political system,Personal interests,4,3,3,,4,4,3,5,5,5
+13,Female,18-30,Spanish,No experience,1-2 years,1-2 years,Consulting,9,6,7,School system,Family life,Political system,Personal interests,2,4,5,,4,3,2,2,3,6
+14,Male,51-60,Catalan,16-24 years,11-15 years,+16 years,Digital Printing,10,8,9,School system,Family life,Political system,Personal interests,3,5,5,,3,3,4,4,5,
+15,Male,31-40,German,No experience,No experience,1-2 years,Waste Management,8,9,5,,,Political system,,3,3,,,4,3,5,3,5,10
+16,Female,41-50,American,9-15 years,6-10 years,+16 years,Financial,8,8,8,School system,Family life,Political system,,3,3,4,,4,4,4,4,5,8
+17,Male,41-50,American,1-3 years,+16 years,+16 years,Insurance,10,10,10,School system,Family life,Political system,Personal interests,5,4,5,,5,5,5,4,5,10
+18,Female,41-50,German,16-24 years,+16 years,+16 years,Healthcare,10,5,8,School system,Family life,,Personal interests,2,3,4,,2,2,3,3,4,8
+19,Male,31-40,German,1-3 years,No experience,3-6 years,Mobile Cranes and Aerial Work Platforms,8,6,4,School system,,,,1,2,3,5,2,2,3,2,5,9
+20,Male,31-40,German,No experience,No experience,3-6 years,IT,8,10,5,School system,Family life,Political system,Personal interests,,,,,3,5,5,3,5,10
+21,Male,31-40,German,9-15 years,11-15 years,7-10 years,eSport,8,8,5,School system,Family life,Political system,,4,4,5,,2,3,4,1,2,10
+22,Male,18-30,German,No experience,3-5 years,1-2 years,eSport,9,7,9,,Family life,,Personal interests,3,4,4,,5,4,5,5,5,9
+23,Male,31-40,German,9-15 years,6-10 years,7-10 years,eSport,7,7,3,School system,Family life,Political system,Personal interests,1,3,1,,4,4,4,3,2,10
+24,Male,31-40,German,4-8 years,+16 years,7-10 years,eSport,10,10,5,,Family life,,Personal interests,1,5,3,,4,3,5,5,5,9
+25,Male,18-30,German,No experience,No experience,1-2 years,eSport,10,6,8,School system,Family life,Political system,Personal interests,3,4,4,,5,3,4,3,4,9
+26,Female,18-30,German,No experience,1-2 years,3-6 years,Travel,10,5,8,School system,,,,2,4,4,,4,3,3,4,5,7
+27,Male,31-40,German,4-8 years,No experience,3-6 years,Media,9,8,4,,Family life,Political system,Personal interests,2,4,4,,4,3,5,2,4,10
+28,Male,31-40,German,1-3 years,6-10 years,7-10 years,eSport,8,6,7,School system,Family life,,Personal interests,4,4,3,,4,4,4,3,3,7
+29,Male,18-30,German,1-3 years,6-10 years,3-6 years,eSport,8,7,6,School system,Family life,Political system,Personal interests,3,2,3,,4,4,3,3,5,4
+30,Male,31-40,German,4-8 years,3-5 years,3-6 years,Fairs & Conventions,9,7,8,,,Political system,Personal interests,4,4,4,,5,3,4,3,4,7
+31,Female,18-30,Australian,1-3 years,1-2 years,7-10 years,Travel,9,8,10,,Family life,Political system,,3,3,3,,3,3,4,4,4,9
+32,Male,31-40,German,No experience,3-5 years,1-2 years,Event Logistics,8,8,7,School system,Family life,,Personal interests,1,3,3,,4,4,5,4,5,8
+33,Male,31-40,German,4-8 years,6-10 years,7-10 years,IT,9,5,10,,Family life,,Personal interests,4,4,5,,5,2,3,5,5,3
+34,Male,51-60,German,16-24 years,6-10 years,+16 years,Professional Services,10,8,8,,,Political system,Personal interests,5,4,4,,3,3,4,4,5,7
+35,Female,31-40,German,1-3 years,6-10 years,7-10 years,Consulting,7,1,5,School system,Family life,Political system,,4,3,5,,4,2,4,4,5,8
+36,Male,18-30,German,No experience,No experience,1-2 years,IT,9,5,8,School system,Family life,Political system,Personal interests,3,2,4,,3,2,4,3,4,5
+37,Male,41-50,German,9-15 years,11-15 years,7-10 years,IT,9,4,9,School system,Family life,Political system,Personal interests,5,3,5,,5,5,4,5,3,7
+38,Male,41-50,German,4-8 years,11-15 years,11-15 years,Energy Research,8,7,7,School system,Family life,,Personal interests,4,4,5,,3,4,3,3,5,
+39,Male,51-60,Italian,16-24 years,11-15 years,+16 years,University,9,8,10,School system,Family life,Political system,,4,3,5,,4,3,4,5,5,
+40,Male,41-50,German,9-15 years,+16 years,+16 years,Government Research,9,8,7,School system,,Political system,,2,5,4,,4,1,4,5,4,6
+41,Male,31-40,German,4-8 years,1-2 years,1-2 years,Consulting,9,7,8,School system,Family life,Political system,Personal interests,5,5,5,,5,4,5,4,5,9
+42,Male,41-50,German,16-24 years,+16 years,+16 years,IT,10,6,9,School system,Family life,Political system,Personal interests,4,3,5,,3,2,4,4,5,8
